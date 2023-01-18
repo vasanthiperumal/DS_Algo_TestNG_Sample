@@ -1,0 +1,234 @@
+[INFO ] 2022-10-18 13:42:25.574 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 13:42:25.666 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 13:42:25.759 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 13:42:29.521 [main] LoggerLoad - Login successful
+[INFO ] 2022-10-18 13:42:31.140 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 13:42:31.217 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 13:42:31.317 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 13:42:34.765 [main] LoggerLoad - Login failed : Invalid data
+[INFO ] 2022-10-18 13:42:34.883 [main] LoggerLoad - Testcase failed and captured screenshot
+[INFO ] 2022-10-18 13:42:35.761 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 13:42:35.831 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 13:42:35.908 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 13:42:39.027 [main] LoggerLoad - Login failed : Invalid data
+[INFO ] 2022-10-18 13:42:39.241 [main] LoggerLoad - Testcase failed and captured screenshot
+[INFO ] 2022-10-18 13:42:40.159 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 13:42:40.197 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 13:42:40.286 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 13:42:43.369 [main] LoggerLoad - Login failed : Invalid data
+[INFO ] 2022-10-18 13:42:43.513 [main] LoggerLoad - Testcase failed and captured screenshot
+[INFO ] 2022-10-18 13:42:45.858 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 13:42:45.915 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 13:42:45.993 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 13:42:49.715 [main] LoggerLoad - Login successful
+[INFO ] 2022-10-18 13:42:55.216 [main] LoggerLoad - DS : Time complexity started
+[INFO ] 2022-10-18 13:43:00.878 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 13:43:00.948 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 13:43:01.031 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 13:43:04.797 [main] LoggerLoad - Login successful
+[INFO ] 2022-10-18 13:43:06.712 [main] LoggerLoad - ARRAY : Array in python started
+[INFO ] 2022-10-18 13:43:10.767 [main] LoggerLoad - ARRAY : Arrays using list started
+[INFO ] 2022-10-18 13:43:14.681 [main] LoggerLoad - ARRAY : Basic operations in lists started
+[INFO ] 2022-10-18 13:43:18.642 [main] LoggerLoad - ARRAY : Applications of array started
+[INFO ] 2022-10-18 13:43:24.555 [main] LoggerLoad - ARRAY : Search array started
+[INFO ] 2022-10-18 13:43:32.737 [main] LoggerLoad - ARRAY : Max consecutive ones started
+[INFO ] 2022-10-18 13:43:40.885 [main] LoggerLoad - ARRAY : Find even number started
+[INFO ] 2022-10-18 13:43:49.025 [main] LoggerLoad - ARRAY : Array in python started
+[INFO ] 2022-10-18 13:44:00.197 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 13:44:00.262 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 13:44:00.351 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 13:44:04.203 [main] LoggerLoad - Login successful
+[INFO ] 2022-10-18 13:44:07.667 [main] LoggerLoad - Linkedlist : Introduction started
+[INFO ] 2022-10-18 13:44:11.887 [main] LoggerLoad - Linkedlist : Creating linked list started
+[INFO ] 2022-10-18 13:44:15.910 [main] LoggerLoad - Linkedlist : Types of linked list started
+[INFO ] 2022-10-18 13:44:20.021 [main] LoggerLoad - Linkedlist : Implement started
+[INFO ] 2022-10-18 13:44:25.503 [main] LoggerLoad - Linkedlist : Traversal started
+[INFO ] 2022-10-18 13:44:31.015 [main] LoggerLoad - Linkedlist : Insertion started
+[INFO ] 2022-10-18 13:44:36.548 [main] LoggerLoad - Linkedlist : Deletion started
+[INFO ] 2022-10-18 13:44:43.323 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 13:44:43.413 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 13:44:43.492 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 13:44:47.239 [main] LoggerLoad - Login successful
+[INFO ] 2022-10-18 13:44:48.633 [main] LoggerLoad - STACK : operations in stack started
+[INFO ] 2022-10-18 13:44:52.656 [main] LoggerLoad - STACK : Implementation started
+[INFO ] 2022-10-18 13:44:56.601 [main] LoggerLoad - STACK : Applications started
+[INFO ] 2022-10-18 13:45:01.769 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 13:45:01.824 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 13:45:01.903 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 13:45:05.513 [main] LoggerLoad - Login successful
+[INFO ] 2022-10-18 13:45:07.412 [main] LoggerLoad - QUEUE : Implementation of QUEUE started
+[INFO ] 2022-10-18 13:45:09.933 [main] LoggerLoad - QUEUE : Implementation using collections started
+[INFO ] 2022-10-18 13:45:12.310 [main] LoggerLoad - QUEUE : Implementation using array started
+[INFO ] 2022-10-18 13:45:14.896 [main] LoggerLoad - QUEUE : operations started
+[INFO ] 2022-10-18 13:45:21.699 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 13:45:21.764 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 13:45:21.843 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 13:45:25.471 [main] LoggerLoad - Login successful
+[INFO ] 2022-10-18 13:45:27.434 [main] LoggerLoad - TREE : Overview of tree started
+[INFO ] 2022-10-18 13:45:33.091 [main] LoggerLoad - TREE : Terminologies started
+[INFO ] 2022-10-18 13:45:38.776 [main] LoggerLoad - TREE : Types of tree started
+[INFO ] 2022-10-18 13:45:44.461 [main] LoggerLoad - TREE : Tree traversals started
+[INFO ] 2022-10-18 13:45:50.303 [main] LoggerLoad - TREE : Traversal illustration started
+[INFO ] 2022-10-18 13:45:56.080 [main] LoggerLoad - TREE : Binary tree started
+[INFO ] 2022-10-18 13:46:01.850 [main] LoggerLoad - TREE : Types of Binary tree started
+[INFO ] 2022-10-18 13:46:07.660 [main] LoggerLoad - TREE : Implementation in python started
+[INFO ] 2022-10-18 13:46:13.380 [main] LoggerLoad - TREE : Binary tree traversal started
+[INFO ] 2022-10-18 13:46:19.137 [main] LoggerLoad - TREE : Implementation of binary trees started
+[INFO ] 2022-10-18 13:46:26.415 [main] LoggerLoad - TREE : Application of binary trees started
+[INFO ] 2022-10-18 13:46:32.149 [main] LoggerLoad - TREE : Binary search trees started
+[INFO ] 2022-10-18 13:46:39.544 [main] LoggerLoad - TREE : Implementation of BST started
+[INFO ] 2022-10-18 13:46:47.984 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 13:46:48.052 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 13:46:48.137 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 13:46:52.031 [main] LoggerLoad - Login successful
+[INFO ] 2022-10-18 13:46:55.446 [main] LoggerLoad -  Graph : Link graph started
+[INFO ] 2022-10-18 13:47:00.864 [main] LoggerLoad - Graph : Link graph presentations started
+[WARN ] 2022-10-18 13:55:23.249 [main] LoggerLoad - Invalid details : Not a able to register a customer
+[INFO ] 2022-10-18 13:55:26.399 [main] LoggerLoad - Customer registered successefully
+[WARN ] 2022-10-18 13:56:02.439 [main] LoggerLoad - Invalid details : Not a able to register a customer
+[WARN ] 2022-10-18 13:56:05.118 [main] LoggerLoad - Invalid details : Not a able to register a customer
+[INFO ] 2022-10-18 13:56:08.988 [main] LoggerLoad - ARRAY : Arrays using list started
+[INFO ] 2022-10-18 13:56:09.030 [main] LoggerLoad - ARRAY : Basic operations in lists started
+[INFO ] 2022-10-18 13:56:09.055 [main] LoggerLoad - ARRAY : Applications of array started
+[INFO ] 2022-10-18 13:56:09.220 [main] LoggerLoad - ARRAY : Max consecutive ones started
+[INFO ] 2022-10-18 13:56:09.268 [main] LoggerLoad - ARRAY : Find even number started
+[INFO ] 2022-10-18 13:56:09.315 [main] LoggerLoad - ARRAY : Array in python started
+[INFO ] 2022-10-18 13:56:09.405 [main] LoggerLoad - Linkedlist : Creating linked list started
+[INFO ] 2022-10-18 13:56:09.431 [main] LoggerLoad - Linkedlist : Types of linked list started
+[INFO ] 2022-10-18 13:56:09.454 [main] LoggerLoad - Linkedlist : Implement started
+[INFO ] 2022-10-18 13:56:09.481 [main] LoggerLoad - Linkedlist : Traversal started
+[INFO ] 2022-10-18 13:56:09.495 [main] LoggerLoad - Linkedlist : Insertion started
+[INFO ] 2022-10-18 13:56:09.519 [main] LoggerLoad - Linkedlist : Deletion started
+[INFO ] 2022-10-18 13:56:09.562 [main] LoggerLoad - STACK : Implementation started
+[INFO ] 2022-10-18 13:56:09.585 [main] LoggerLoad - STACK : Applications started
+[INFO ] 2022-10-18 13:56:09.623 [main] LoggerLoad - QUEUE : Implementation using collections started
+[INFO ] 2022-10-18 13:56:09.641 [main] LoggerLoad - QUEUE : Implementation using array started
+[INFO ] 2022-10-18 13:56:09.655 [main] LoggerLoad - QUEUE : operations started
+[INFO ] 2022-10-18 13:56:09.694 [main] LoggerLoad - TREE : Terminologies started
+[INFO ] 2022-10-18 13:56:09.714 [main] LoggerLoad - TREE : Types of tree started
+[INFO ] 2022-10-18 13:56:09.732 [main] LoggerLoad - TREE : Tree traversals started
+[INFO ] 2022-10-18 13:56:09.744 [main] LoggerLoad - TREE : Traversal illustration started
+[INFO ] 2022-10-18 13:56:09.772 [main] LoggerLoad - TREE : Binary tree started
+[INFO ] 2022-10-18 13:56:09.799 [main] LoggerLoad - TREE : Types of Binary tree started
+[INFO ] 2022-10-18 13:56:09.819 [main] LoggerLoad - TREE : Implementation in python started
+[INFO ] 2022-10-18 13:56:09.848 [main] LoggerLoad - TREE : Binary tree traversal started
+[INFO ] 2022-10-18 13:56:09.865 [main] LoggerLoad - TREE : Implementation of binary trees started
+[INFO ] 2022-10-18 13:56:09.881 [main] LoggerLoad - TREE : Application of binary trees started
+[INFO ] 2022-10-18 13:56:09.893 [main] LoggerLoad - TREE : Binary search trees started
+[INFO ] 2022-10-18 13:56:11.444 [main] LoggerLoad - Graph : Link graph presentations started
+[INFO ] 2022-10-18 13:56:33.010 [main] LoggerLoad - ARRAY : Arrays using list started
+[INFO ] 2022-10-18 13:56:43.472 [main] LoggerLoad - ARRAY : Basic operations in lists started
+[INFO ] 2022-10-18 13:56:53.955 [main] LoggerLoad - ARRAY : Applications of array started
+[INFO ] 2022-10-18 13:57:14.899 [main] LoggerLoad - ARRAY : Max consecutive ones started
+[INFO ] 2022-10-18 13:57:25.359 [main] LoggerLoad - ARRAY : Find even number started
+[INFO ] 2022-10-18 13:57:35.828 [main] LoggerLoad - ARRAY : Array in python started
+[INFO ] 2022-10-18 13:57:56.782 [main] LoggerLoad - Linkedlist : Creating linked list started
+[INFO ] 2022-10-18 13:58:07.203 [main] LoggerLoad - Linkedlist : Types of linked list started
+[INFO ] 2022-10-18 13:58:17.621 [main] LoggerLoad - Linkedlist : Implement started
+[INFO ] 2022-10-18 13:58:28.058 [main] LoggerLoad - Linkedlist : Traversal started
+[INFO ] 2022-10-18 13:58:38.499 [main] LoggerLoad - Linkedlist : Insertion started
+[INFO ] 2022-10-18 13:58:48.889 [main] LoggerLoad - Linkedlist : Deletion started
+[INFO ] 2022-10-18 13:59:09.775 [main] LoggerLoad - STACK : Implementation started
+[INFO ] 2022-10-18 13:59:20.228 [main] LoggerLoad - STACK : Applications started
+[INFO ] 2022-10-18 13:59:41.135 [main] LoggerLoad - QUEUE : Implementation using collections started
+[WARN ] 2022-10-18 13:59:46.401 [main] LoggerLoad - Invalid details : Not a able to register a customer
+[WARN ] 2022-10-18 13:59:48.975 [main] LoggerLoad - Invalid details : Not a able to register a customer
+[INFO ] 2022-10-18 13:59:49.777 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 13:59:49.833 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 13:59:49.904 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 13:59:51.575 [main] LoggerLoad - QUEUE : Implementation using array started
+[INFO ] 2022-10-18 13:59:53.524 [main] LoggerLoad - Login successful
+[INFO ] 2022-10-18 13:59:55.673 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 13:59:55.748 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 13:59:55.836 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 13:59:59.174 [main] LoggerLoad - Login failed : Invalid data
+[INFO ] 2022-10-18 13:59:59.286 [main] LoggerLoad - Testcase failed and captured screenshot
+[INFO ] 2022-10-18 13:59:59.948 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 14:00:00.002 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 14:00:00.060 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 14:00:01.995 [main] LoggerLoad - QUEUE : operations started
+[INFO ] 2022-10-18 14:00:03.139 [main] LoggerLoad - Login failed : Invalid data
+[INFO ] 2022-10-18 14:00:03.342 [main] LoggerLoad - Testcase failed and captured screenshot
+[INFO ] 2022-10-18 14:00:03.997 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 14:00:04.043 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 14:00:04.109 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 14:00:07.186 [main] LoggerLoad - Login failed : Invalid data
+[INFO ] 2022-10-18 14:00:07.332 [main] LoggerLoad - Testcase failed and captured screenshot
+[INFO ] 2022-10-18 14:00:09.530 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 14:00:09.581 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 14:00:09.647 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 14:00:13.211 [main] LoggerLoad - Login successful
+[INFO ] 2022-10-18 14:00:18.665 [main] LoggerLoad - DS : Time complexity started
+[INFO ] 2022-10-18 14:00:22.861 [main] LoggerLoad - TREE : Terminologies started
+[INFO ] 2022-10-18 14:00:24.032 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 14:00:24.081 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 14:00:24.151 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 14:00:27.759 [main] LoggerLoad - Login successful
+[INFO ] 2022-10-18 14:00:29.626 [main] LoggerLoad - ARRAY : Array in python started
+[INFO ] 2022-10-18 14:00:33.274 [main] LoggerLoad - TREE : Types of tree started
+[INFO ] 2022-10-18 14:00:33.865 [main] LoggerLoad - ARRAY : Arrays using list started
+[INFO ] 2022-10-18 14:00:37.949 [main] LoggerLoad - ARRAY : Basic operations in lists started
+[INFO ] 2022-10-18 14:00:41.739 [main] LoggerLoad - ARRAY : Applications of array started
+[INFO ] 2022-10-18 14:00:43.742 [main] LoggerLoad - TREE : Tree traversals started
+[INFO ] 2022-10-18 14:00:47.470 [main] LoggerLoad - ARRAY : Search array started
+[INFO ] 2022-10-18 14:00:54.211 [main] LoggerLoad - TREE : Traversal illustration started
+[INFO ] 2022-10-18 14:00:55.571 [main] LoggerLoad - ARRAY : Max consecutive ones started
+[INFO ] 2022-10-18 14:01:03.638 [main] LoggerLoad - ARRAY : Find even number started
+[INFO ] 2022-10-18 14:01:04.641 [main] LoggerLoad - TREE : Binary tree started
+[INFO ] 2022-10-18 14:01:11.749 [main] LoggerLoad - ARRAY : Array in python started
+[INFO ] 2022-10-18 14:01:15.080 [main] LoggerLoad - TREE : Types of Binary tree started
+[INFO ] 2022-10-18 14:01:22.567 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 14:01:22.620 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 14:01:22.695 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 14:01:25.481 [main] LoggerLoad - TREE : Implementation in python started
+[INFO ] 2022-10-18 14:01:26.276 [main] LoggerLoad - Login successful
+[INFO ] 2022-10-18 14:01:29.707 [main] LoggerLoad - Linkedlist : Introduction started
+[INFO ] 2022-10-18 14:01:33.884 [main] LoggerLoad - Linkedlist : Creating linked list started
+[INFO ] 2022-10-18 14:01:35.896 [main] LoggerLoad - TREE : Binary tree traversal started
+[INFO ] 2022-10-18 14:01:37.864 [main] LoggerLoad - Linkedlist : Types of linked list started
+[INFO ] 2022-10-18 14:01:41.904 [main] LoggerLoad - Linkedlist : Implement started
+[INFO ] 2022-10-18 14:01:46.329 [main] LoggerLoad - TREE : Implementation of binary trees started
+[INFO ] 2022-10-18 14:01:47.342 [main] LoggerLoad - Linkedlist : Traversal started
+[INFO ] 2022-10-18 14:01:52.707 [main] LoggerLoad - Linkedlist : Insertion started
+[INFO ] 2022-10-18 14:01:56.780 [main] LoggerLoad - TREE : Application of binary trees started
+[INFO ] 2022-10-18 14:01:58.113 [main] LoggerLoad - Linkedlist : Deletion started
+[INFO ] 2022-10-18 14:02:04.546 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 14:02:04.594 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 14:02:04.665 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 14:02:07.191 [main] LoggerLoad - TREE : Binary search trees started
+[INFO ] 2022-10-18 14:02:08.232 [main] LoggerLoad - Login successful
+[INFO ] 2022-10-18 14:02:09.585 [main] LoggerLoad - STACK : operations in stack started
+[INFO ] 2022-10-18 14:02:13.502 [main] LoggerLoad - STACK : Implementation started
+[INFO ] 2022-10-18 14:02:17.282 [main] LoggerLoad - STACK : Applications started
+[INFO ] 2022-10-18 14:02:22.115 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 14:02:22.163 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 14:02:22.227 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 14:02:25.774 [main] LoggerLoad - Login successful
+[INFO ] 2022-10-18 14:02:27.614 [main] LoggerLoad - QUEUE : Implementation of QUEUE started
+[INFO ] 2022-10-18 14:02:29.968 [main] LoggerLoad - QUEUE : Implementation using collections started
+[INFO ] 2022-10-18 14:02:32.288 [main] LoggerLoad - QUEUE : Implementation using array started
+[INFO ] 2022-10-18 14:02:34.718 [main] LoggerLoad - QUEUE : operations started
+[INFO ] 2022-10-18 14:02:39.936 [main] LoggerLoad - Graph : Link graph presentations started
+[INFO ] 2022-10-18 14:02:41.169 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 14:02:41.217 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 14:02:41.279 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 14:02:44.891 [main] LoggerLoad - Login successful
+[INFO ] 2022-10-18 14:02:46.833 [main] LoggerLoad - TREE : Overview of tree started
+[INFO ] 2022-10-18 14:02:52.557 [main] LoggerLoad - TREE : Terminologies started
+[INFO ] 2022-10-18 14:02:58.127 [main] LoggerLoad - TREE : Types of tree started
+[INFO ] 2022-10-18 14:03:03.626 [main] LoggerLoad - TREE : Tree traversals started
+[INFO ] 2022-10-18 14:03:09.226 [main] LoggerLoad - TREE : Traversal illustration started
+[INFO ] 2022-10-18 14:03:14.863 [main] LoggerLoad - TREE : Binary tree started
+[INFO ] 2022-10-18 14:03:20.551 [main] LoggerLoad - TREE : Types of Binary tree started
+[INFO ] 2022-10-18 14:03:26.255 [main] LoggerLoad - TREE : Implementation in python started
+[INFO ] 2022-10-18 14:03:31.754 [main] LoggerLoad - TREE : Binary tree traversal started
+[INFO ] 2022-10-18 14:03:37.345 [main] LoggerLoad - TREE : Implementation of binary trees started
+[INFO ] 2022-10-18 14:03:44.442 [main] LoggerLoad - TREE : Application of binary trees started
+[INFO ] 2022-10-18 14:03:49.959 [main] LoggerLoad - TREE : Binary search trees started
+[INFO ] 2022-10-18 14:03:57.214 [main] LoggerLoad - TREE : Implementation of BST started
+[INFO ] 2022-10-18 14:04:05.289 [main] LoggerLoad - URL opened
+[INFO ] 2022-10-18 14:04:05.342 [main] LoggerLoad - Entered username
+[INFO ] 2022-10-18 14:04:05.408 [main] LoggerLoad - Entered password
+[INFO ] 2022-10-18 14:04:09.003 [main] LoggerLoad - Login successful
+[INFO ] 2022-10-18 14:04:12.414 [main] LoggerLoad -  Graph : Link graph started
+[INFO ] 2022-10-18 14:04:17.735 [main] LoggerLoad - Graph : Link graph presentations started
